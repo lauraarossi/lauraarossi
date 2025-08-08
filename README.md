@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lauraarossi
 - 👀 I’m interested in 
--     - clean, maintainable code & best practices 
--     - statistics, applied mathematics, actuarial science,  
+-     clean, maintainable code & best practices 
+-     statistics, applied mathematics, actuarial science,  
 -     - back and front end development
 -     - Python, C++, C#, SQL, HTML, VBA, R, financial modelling software
 -     - software architecture 

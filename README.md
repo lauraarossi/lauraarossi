@@ -2,11 +2,11 @@
 - 👀 I’m interested in 
 -     clean, maintainable code & best practices 
 -     statistics, applied mathematics, actuarial science,  
--     - back and front end development
--     - Python, C++, C#, SQL, HTML, VBA, R, financial modelling software
--     - software architecture 
--     - role playing games, my dog
--     - running, weightlifting, cycling
+-     back and front end development
+-     Python, C++, C#, SQL, HTML, VBA, R, financial modelling software
+-     software architecture 
+-     role playing games, my dog
+-     running, weightlifting, cycling
 - 📫 Email is the best way to reach me
 
 <!---
